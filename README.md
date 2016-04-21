@@ -28,5 +28,5 @@
 
 ## History
 
-Check [Releases](https://github.com/libeo-vtt/vtt-jquery-boilerplate/releases) for detailed changelog.
+Check [Releases](../../releases) for detailed changelog.
 
