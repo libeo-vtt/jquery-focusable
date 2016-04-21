@@ -21,21 +21,10 @@
 	$(document).find(':focusable');
 	```
 
-## Structure
+## Downloads
 
-The basic structure of the project is given in the following way:
-
-```
-├── dist/
-│   ├── jquery.focusable.js
-│   └── jquery.focusable.min.js
-├── src/
-│   └── jquery.focusable.js
-├── .gitignore
-├── bower.json
-├── gulpfile.js
-└── package.json
-```
+* [Source](https://raw.githubusercontent.com/libeo-vtt/jquery-focusable/master/dist/jquery.focusable.js)
+* [Minified version](https://raw.githubusercontent.com/libeo-vtt/jquery-focusable/master/dist/jquery.focusable.min.js)
 
 ## History
 
